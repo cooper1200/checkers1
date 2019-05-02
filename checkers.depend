@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1556651508 source:/home/ben/Documents/coding/checkers/board.c
+	<stdio.h>
+	<stdlib.h>
+	"board.h"
+
+1556793875 source:/home/ben/Documents/coding/checkers/main.c
+	<stdio.h>
+	<stdlib.h>
+	"moves.h"
+	"board.h"
+
+1556796217 source:/home/ben/Documents/coding/checkers/moves.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moves.h"
+	"board.h"
+
+1556791304 /home/ben/Documents/coding/checkers/moves.h
+	<stdbool.h>
+
+1556790277 /home/ben/Documents/coding/checkers/board.h
+
